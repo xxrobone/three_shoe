@@ -2,3 +2,26 @@
   width: 100%;
   height: 100vh;
 }
+
+body {
+  background: rgb(205, 239, 240);
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 76ch;
+}
+
+h1 {
+  position: absolute;
+  top: 43px;
+  left: 140px;
+  padding: 0;
+  margin: 40px;
+  font-size: 5em;
+  font-weight: 400;
+  line-height: 0.7em;
+  letter-spacing: -2px;
+  color: #272730;
+}
